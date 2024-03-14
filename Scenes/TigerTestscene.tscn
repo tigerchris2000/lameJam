@@ -1,3 +1,6 @@
-[gd_scene format=3 uid="uid://7ogviaju2uej"]
+[gd_scene load_steps=2 format=3 uid="uid://7ogviaju2uej"]
+
+[ext_resource type="Script" path="res://ScriptsTigerTest.gd" id="1_s3mit"]
 
 [node name="TigerTestscene" type="Node2D"]
+script = ExtResource("1_s3mit")
